@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on at [Solite Kids](https://solitekids.com) as a Game Developer
+### Hi there 👋, I'm [Miftah](https://miftahdeveloper.wordpress.com/)
+- 🔭 I’m currently working at [Solite Kids](https://solitekids.com) as a Game Developer
 - 😄 Pronouns: He / Him
 
 <!--
