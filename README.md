@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on at [Solite Kids](https://solitekids.com) as a Game Developer
+- 😄 Pronouns: He / Him
 
 <!--
 **miftahalfian/miftahalfian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
