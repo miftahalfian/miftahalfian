@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm [Miftah](https://miftahdeveloper.wordpress.com/)
 - 🔭 I’m currently working at [Solite Kids](https://solitekids.com) as a Game Developer
 - 😄 Pronouns: He / Him
+- 📫 How to reach me: Send email to [me](mailto:miftah.developer@gmail.com)
 
 <!--
 **miftahalfian/miftahalfian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
